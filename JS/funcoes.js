@@ -1,4 +1,4 @@
-function mostrarCincoAlertsComFor()
+function mostrarCincoAlertsComFor() 
 {
 	recebeNumero = parseInt(prompt("Digite um valor"));
 	
